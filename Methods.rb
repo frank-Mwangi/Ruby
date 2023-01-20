@@ -5,3 +5,8 @@ end
 sayhi()
 sayhi("Frank")
 sayhi("Frank", 26)
+
+def cube(num)
+    return num**3
+end
+puts cube(3)
