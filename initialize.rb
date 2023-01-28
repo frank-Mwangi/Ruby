@@ -9,6 +9,6 @@ class Book
     end
 end
 
-book3 = Book.new("A Song of Ice and Fire", "George R. R. Martin", 700)
+book3 = Book.new("A Song of Ice and Fire", "George R. R. Martin", 700) #This calls the initialize method and passes it some parameters
 
 puts book3.title
